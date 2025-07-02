@@ -1,5 +1,5 @@
 # 📅 Expense Tracker CLI
-
+https://roadmap.sh/projects/expense-tracker
 Expense Tracker CLI is a command-line application to **record, manage, and summarize your personal expenses**. Track daily spending, update entries, and get real-time totals — all from your terminal.
 
 ---
