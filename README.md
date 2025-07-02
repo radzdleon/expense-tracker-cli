@@ -117,12 +117,6 @@ expense-tracker-cli/
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 💬 Feedback
 
 Pull requests and suggestions are welcome. Let’s make budgeting easier, one terminal command at a time!
